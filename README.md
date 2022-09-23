@@ -7,3 +7,5 @@ Repositório com os modelos desenvolvido no Bootcamp Database Experience para a 
 - Modelagem EER
 - Generalização/Especialização
 - UML
+- DDL
+- DML
