@@ -35,6 +35,22 @@
 
 ![image](https://user-images.githubusercontent.com/24790794/198850778-76fd65fb-897c-41bf-89ed-98f8d2f5e435.png)
 
+<h1>Procedures</h1>
+
+> Tabela anterior:
+![image](https://user-images.githubusercontent.com/24790794/198851963-51491b69-286d-424d-8f9d-f4108ae8f979.png)
+
+> Executando a opção 2: 
+![image](https://user-images.githubusercontent.com/24790794/198851989-9755878e-c7fa-4789-9624-7e066be4f67c.png)
+
+> Resultado executando com a opção 1:
+![image](https://user-images.githubusercontent.com/24790794/198852004-703d80b8-59c3-485f-8a78-6fd24615b710.png)
+
+> Executando a opção 3:
+![image](https://user-images.githubusercontent.com/24790794/198852065-8aca1ff7-99d3-49a3-a8a9-6806013fff1e.png)
+
+> Executando uma opção errada: 
+![image](https://user-images.githubusercontent.com/24790794/198852092-91083179-be0a-4083-9c83-7999641e76e6.png)
 
 ## Autor
 
