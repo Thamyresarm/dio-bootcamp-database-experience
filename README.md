@@ -12,7 +12,7 @@ Repositório com os modelos desenvolvido no Bootcamp Database Experience para a 
 - DDL
 - DML
 
-<h3>Autor</h3>
+## Autor
 
 <a href="https://www.linkedin.com/in/thamyres-magalhaes/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/24790794?v=4" width="100px;" alt=""/>
