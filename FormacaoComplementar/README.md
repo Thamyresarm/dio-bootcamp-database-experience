@@ -6,11 +6,13 @@ Repositório com os modelos desenvolvido no Bootcamp Database Experience para a 
 ## 🛠️ Tecnologias aprendidas
 
 - Banco de Dados
-- Modelagem EER
-- Generalização/Especialização
-- UML
-- DDL
-- DML
+- Views
+- Schemas
+- Procedures e Function
+- Triggers
+- Index
+- Normalização 
+ 
 
 <h3>Autor</h3>
 
