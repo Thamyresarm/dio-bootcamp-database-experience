@@ -22,7 +22,7 @@
 >Listando index das tabelas envolvidas
 
 - Produto 
--
+
 ![image](https://user-images.githubusercontent.com/24790794/198850748-17144521-b1c1-4587-90a8-eabe76fd2dda.png)
 
 - Estoque
